@@ -1,0 +1,71 @@
+.footer {
+    background-color: darkblue;
+}
+
+.footer-title {
+    color: white;
+}
+
+.part-one > a {
+    color: white;    
+}
+
+.head {
+    color: white;
+}
+
+.apply {
+    width: 100px;
+    font-size: 12px;
+    background-color: #d63283;
+    color: white;
+}
+
+.empReview {
+    color: #2ea718;
+}
+.name {
+    font-size: 18px;
+}
+
+.suggestions {
+    font-size: 12px;
+    background-color: #e9e9ea;
+    border-radius: 25px;
+    margin: 10px;
+    margin-bottom: 20px; 
+    margin-top: 5px;  
+}
+
+.part {
+    width: 100%;
+
+}
+
+.part a {
+    color: white;
+    text-decoration: none;
+    
+}
+
+.part li {
+    list-style-type:none;
+}
+
+nav {
+    background-color: darkblue;
+}
+
+.brand {
+    font-size: 25px;
+}
+
+.info {
+    font-size: 12px;
+    color: #54535e;
+    margin-top: 0 !important;
+}
+
+.part-four a {
+    margin: 1%;
+}
